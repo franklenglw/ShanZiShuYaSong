@@ -10,4 +10,9 @@ Free for personal use; Commercial use requires authorization.
 Developed with Glyphs 3 and designed and produced based on the block-printed edition of the ancient book Song Shi Ji Shi (Records of Song Poetry).
 https://www.bilibili.com/video/BV1SQW46REDY/
 
+![Image](https://github.com/franklenglw/ShanZiShuYaSong/blob/main/images/ShuYaSong_1.jpg)  
+![Image](https://github.com/franklenglw/ShanZiShuYaSong/blob/main/images/ShuYaSong_2.jpg)  
+![Image](https://github.com/franklenglw/ShanZiShuYaSong/blob/main/images/ShuYaSong_3.jpg)  
+![Image](https://github.com/franklenglw/ShanZiShuYaSong/blob/main/images/ShuYaSong_4.jpg)  
+
 ![Image](https://github.com/franklenglw/zhongyi/blob/main/Assets/don.png)  
