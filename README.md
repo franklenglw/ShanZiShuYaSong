@@ -6,7 +6,7 @@
 https://www.bilibili.com/video/BV1SQW46REDY/
 
 
-Free for personal use; Commercial use requires authorization.
+This font is free for personal use; Commercial use requires authorization.
 Developed with Glyphs 3 and designed and produced based on the block-printed edition of the ancient book Song Shi Ji Shi (Records of Song Poetry).
 https://www.bilibili.com/video/BV1SQW46REDY/
 
