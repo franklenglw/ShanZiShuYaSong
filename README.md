@@ -1,12 +1,12 @@
 山字疏雅宋
 ---------------------------
-个人免费使用，商用需获授权
+个人免费使用，商用需获授权(扫描二维码，加我微信)
 
 使用Glyphs3开发，根据古籍《宋诗纪事》的刻本（有感于其静雅的气息和疏朗的格局）设计制作。
 https://www.bilibili.com/video/BV1SQW46REDY/
 
 
-This font is free for personal use; Commercial use requires authorization.
+This font is free for personal use; Commercial use requires authorization.（scan the QR code to add me on wechat)
 Developed with Glyphs 3 and designed and produced based on the block-printed edition of the ancient book Song Shi Ji Shi (Records of Song Poetry).
 https://www.bilibili.com/video/BV1SQW46REDY/
 
